@@ -15,8 +15,14 @@ permalink: LINKS/
 * [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://docos.vlsm.org/){:target="_blank"} ---
   This article provides basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging.
 
+* [Using GPG Keys](https://confluence.atlassian.com/bitbucketserver/using-gpg-keys-913477014.html){:target="_blank"} ---
+  An article regarding what is GPG key, how to generate them, use them, and how can it be useful for us and our organizations.
+
+* [Tarball: Create & Use Tarballs | What are the Benefit?](https://www.lenovo.com/ca/en/glossary/tarball/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopYv1OCELejErGcUQTOhZ2zxEd36yYhUPXmtLr7ybT6u35Rm5yB){:target="_blank"} ---
+  This article speaks about Tarball and how to use them, and how it can be useful.
+
 
 <br>
 <br>
-#### REV: Wed 05 Sep 2024 21:57
+#### REV: Sat 14 Sep 2024 21:11
 <hr>
