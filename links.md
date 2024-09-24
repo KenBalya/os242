@@ -21,6 +21,9 @@ permalink: LINKS/
 * [Tarball: Create & Use Tarballs | What are the Benefit?](https://www.lenovo.com/ca/en/glossary/tarball/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopYv1OCELejErGcUQTOhZ2zxEd36yYhUPXmtLr7ybT6u35Rm5yB){:target="_blank"} ---
   This article speaks about Tarball and how to use them, and how it can be useful.
 
+* [How to Mount Drives on Linux : Command Line & GUI](https://www.wikihow.com/Linux-How-to-Mount-Drive){:target="_blank"} ---
+  Provides linux built-in commands to do disk partitioning and mounting drives.
+
 
 <br>
 <br>
