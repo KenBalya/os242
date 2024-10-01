@@ -22,7 +22,13 @@ permalink: LINKS/
   This article speaks about Tarball and how to use them, and how it can be useful.
 
 * [How to Mount Drives on Linux : Command Line & GUI](https://www.wikihow.com/Linux-How-to-Mount-Drive){:target="_blank"} ---
+
   Provides linux built-in commands to do disk partitioning and mounting drives.
+* [Learn C Programming](https://www.programiz.com/c-programming){:target="_blank"} ---
+ A site that teaches about the fundamentals of C Programming Language
+
+* [The Linux Programming Interface](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf){:target="_blank"} ---
+ A link to get The Linux Programming Interface E-Book by Michael Kerrisk for free.
 
 
 <br>
