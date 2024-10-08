@@ -30,8 +30,10 @@ permalink: LINKS/
 * [The Linux Programming Interface](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf){:target="_blank"} ---
  A link to get The Linux Programming Interface E-Book by Michael Kerrisk for free.
 
+* [What is Endianness? Big-Endian & Little-Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/){:target="_blank"} ---
+ Explain about computer addressing system in Big Endian and Little Endian, might be useful for solving week 5 problems in UTS.
 
 <br>
 <br>
-#### REV: Sat 14 Sep 2024 21:11
+#### REV: Sat 18 Oct 2024 22:11
 <hr>
