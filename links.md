@@ -33,6 +33,8 @@ permalink: LINKS/
 * [What is Endianness? Big-Endian & Little-Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/){:target="_blank"} ---
  Explain about computer addressing system in Big Endian and Little Endian, might be useful for solving week 5 problems in UTS.
 
+* [Fork & Shared Memory](https://www.linuxquestions.org/questions/programming-9/fork-and-shared-memory-4175535565/){:target="_blank"} ---
+Explain about Fork and Shared memory based on user's experience on linux.
 <br>
 <br>
 #### REV: Sat 18 Oct 2024 22:11
