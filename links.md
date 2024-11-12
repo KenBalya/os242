@@ -38,6 +38,10 @@ Explain about Fork and Shared memory based on user's experience on linux.
 
 * [Build a Markdown Documentation Site with Docusaurus (Step-by-Step)](https://www.youtube.com/watch?v=2R53Y7eP45k){:target="_blank"} ---
 A youtube video about Markdown Documentation with Docusaurus.
+
+* [Design and Implementation in Operating System](https://www.geeksforgeeks.org/design-and-implementation-in-operating-system/){:target="_blank"} ---
+Talks about design and implementations in Operating System.
+
 <br>
 <br>
 #### REV: Sat 18 Oct 2024 22:11
