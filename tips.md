@@ -4,6 +4,7 @@ permalink: TIPS/
 
 # TIPS
 
-* Tip#1
-* Tip#2
+* Do weekly assignment as early as possible
+* Follow the given instructions
+* Do not miss any given instructions, especially in the early weeks
 <hr>
